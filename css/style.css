@@ -520,6 +520,10 @@ a:hover {
   color: #fff;
 }
 
+.price-logo {
+  margin-bottom: 30px;
+}
+
 figure {
   background: #fff;
   margin-bottom: 45px;
