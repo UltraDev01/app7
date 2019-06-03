@@ -72,7 +72,7 @@ a:hover {
 }
 
 .pages {
-  padding: 80px 0 40px;
+  padding: 80px 0;
 }
 
 .moduler {
@@ -164,7 +164,7 @@ a:hover {
 }
 
 .company-description {
-  margin-top: 80px;
+  padding: 80px 0;
 }
 
 .company-description .block h3 {
@@ -405,7 +405,7 @@ a:hover {
 }
 
 #about {
-  padding: 110px 0;
+  padding: 80px 0;
 }
 
 #about .block {
@@ -440,7 +440,7 @@ a:hover {
 }
 
 .about-feature {
-  margin-top: 50px;
+  padding: 80px 0;
 }
 
 .about-feature .block {
@@ -823,7 +823,7 @@ article {
 }
 
 #clients {
-  padding: 30px 0 60px;
+  padding: 80px 0;
 }
 
 #clients .owl-carousel .owl-item {
@@ -837,7 +837,7 @@ article {
 }
 
 #contact-section {
-  padding: 90px 0;
+  padding: 80px 0;
 }
 
 #contact-section .contact-form {
@@ -936,7 +936,7 @@ article {
 }
 
 .gallery {
-  padding: 100px;
+  padding: 80px 0;
 }
 
 .gallery figure .buttons {
@@ -1371,7 +1371,7 @@ px      68    160    252    */
     margin-top: 8px;
   }
   #about {
-    padding: 70px 0;
+    padding-top: 80px;
   }
   #about .block {
     padding: 0;
