@@ -935,6 +935,21 @@ article {
   margin-bottom: 10px;
 }
 
+.ion-android-arrow-dropdown-circle:before {
+  font-size: 2rem;
+  color: #333399;
+  vertical-align: top; 
+  margin-right: 3px;
+}
+
+.d-logo {
+  width: 70%;
+}
+
+.price-logo:hover {
+  opacity: 0.8;
+}
+
 .gallery {
   padding: 80px 0;
 }
