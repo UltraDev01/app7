@@ -946,6 +946,16 @@ article {
   width: 70%;
 }
 
+.tel {
+  color: #333399;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 15px 0;
+  border-bottom: 2px solid transparent;
+  margin: 0;
+  line-height: 20px;
+}
+
 .price-logo:hover {
   opacity: 0.8;
 }
